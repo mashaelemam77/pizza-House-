@@ -11,17 +11,11 @@ A complete **Point of Sale (POS) Desktop Application** built with **C# and Windo
 
 ## 📸 Screenshots & Preview
 
-<div align="center">
-  <img src="images/app_preview.png" alt="Pizza House Application Interface" width="700"/>
-  <p><em>Main Order & Customization Interface</em></p>
-</div>
 
-<br/>
+<img width="1600" height="1068" alt="receipt_preview png" src="https://github.com/user-attachments/assets/1ac1a0b4-c756-4b64-86f1-89e3f351fde8" />
+<img width="1600" height="1065" alt="app_preview png" src="https://github.com/user-attachments/assets/1c51a5e9-c32b-42e8-aec1-7d1d409e531a" />
+<img width="1600" height="1064" alt="select_preview png" src="https://github.com/user-attachments/assets/69f4d322-efcb-4d02-800e-5d379c8aecaa" />
 
-<div align="center">
-  <img src="images/receipt_preview.png" alt="Generated Order Receipt" width="400"/>
-  <p><em>Real-Time Formatted Receipt Generation</em></p>
-</div>
 
 ---
 
