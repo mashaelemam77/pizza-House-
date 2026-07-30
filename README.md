@@ -47,9 +47,20 @@ A complete **Point of Sale (POS) Desktop Application** built with **C# and Windo
 
 ---
 
-## 🚀 How to Run Locally
 
-1. **Clone the repository:**
+
+### 🚀 How to Run Locally
+
+1. **Open the project:**
+   * Open Visual Studio.
+   * Select **Open a project or solution**.
+   * Locate and open `PizzaHouse.sln` (or your `.sln` file).
+
+2. **Run the Application:**
+   * Press `F5` or click the **Start** button in Visual Studio.
+  
+     ---
+**or**
+**Clone the repository:**
    ```bash
    git clone [https://github.com/Mashaele77/pizza-House-.git](https://github.com/Mashaele77/pizza-House-.git)
-
