@@ -1,7 +1,3 @@
-# 🍕 Pizza House - Order Management System
-
-A desktop Point-of-Sale (POS) application built with **C#** and **Windows Forms (WinForms)**. This application allows users to select pizza, appetizers, and beverages, automatically calculate costs (subtotal, service charges, tax, and total), and generate an itemized customer receipt.
-
 
 # 🍕 Pizza House POS System
 
