@@ -60,7 +60,8 @@ A complete **Point of Sale (POS) Desktop Application** built with **C# and Windo
    * Press `F5` or click the **Start** button in Visual Studio.
   
      ---
-**or**
-**Clone the repository:**
-   ```bash
-   git clone [https://github.com/Mashaele77/pizza-House-.git](https://github.com/Mashaele77/pizza-House-.git)
+or Clone the repository:
+
+```bash
+git clone [https://github.com/Mashaele77/pizza-House-.git](https://github.com/Mashaele77/pizza-House-.git)
+```
