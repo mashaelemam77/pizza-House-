@@ -7,15 +7,6 @@
 
 A complete **Point of Sale (POS) Desktop Application** built with **C# and Windows Forms (.NET)**. The system is designed for a pizza restaurant to streamline order management, customize pizza configurations, compute billing in real-time, and print formatted digital receipts.
 
----
-
-## 📸 Screenshots & Preview
-
-
-<img width="1600" height="1068" alt="receipt_preview png" src="https://github.com/user-attachments/assets/1ac1a0b4-c756-4b64-86f1-89e3f351fde8" />
-<img width="1600" height="1065" alt="app_preview png" src="https://github.com/user-attachments/assets/1c51a5e9-c32b-42e8-aec1-7d1d409e531a" />
-<img width="1600" height="1064" alt="select_preview png" src="https://github.com/user-attachments/assets/69f4d322-efcb-4d02-800e-5d379c8aecaa" />
-
 
 ---
 
@@ -40,6 +31,17 @@ A complete **Point of Sale (POS) Desktop Application** built with **C# and Windo
 * **IDE:** Visual Studio
 
 ---
+
+
+## 📸 Screenshots & Preview
+
+
+<img width="1600" height="1068" alt="receipt_preview png" src="https://github.com/user-attachments/assets/1ac1a0b4-c756-4b64-86f1-89e3f351fde8" />
+<img width="1600" height="1065" alt="app_preview png" src="https://github.com/user-attachments/assets/1c51a5e9-c32b-42e8-aec1-7d1d409e531a" />
+<img width="1600" height="1064" alt="select_preview png" src="https://github.com/user-attachments/assets/69f4d322-efcb-4d02-800e-5d379c8aecaa" />
+
+---
+
 
 
 
