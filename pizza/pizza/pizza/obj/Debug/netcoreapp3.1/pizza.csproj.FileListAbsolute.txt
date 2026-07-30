@@ -1,0 +1,23 @@
+C:\Users\moonl\source\repos\pizza\pizza\bin\Debug\netcoreapp3.1\pizza.exe
+C:\Users\moonl\source\repos\pizza\pizza\bin\Debug\netcoreapp3.1\pizza.deps.json
+C:\Users\moonl\source\repos\pizza\pizza\bin\Debug\netcoreapp3.1\pizza.runtimeconfig.json
+C:\Users\moonl\source\repos\pizza\pizza\bin\Debug\netcoreapp3.1\pizza.runtimeconfig.dev.json
+C:\Users\moonl\source\repos\pizza\pizza\bin\Debug\netcoreapp3.1\pizza.dll
+C:\Users\moonl\source\repos\pizza\pizza\bin\Debug\netcoreapp3.1\pizza.pdb
+C:\Users\moonl\source\repos\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.csproj.AssemblyReference.cache
+C:\Users\moonl\source\repos\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.pizza_Hosue.resources
+C:\Users\moonl\source\repos\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.csproj.GenerateResource.cache
+C:\Users\moonl\source\repos\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moonl\source\repos\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.AssemblyInfoInputs.cache
+C:\Users\moonl\source\repos\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.AssemblyInfo.cs
+C:\Users\moonl\source\repos\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.csproj.CoreCompileInputs.cache
+C:\Users\moonl\source\repos\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.dll
+C:\Users\moonl\source\repos\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.pdb
+C:\Users\moonl\source\repos\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.genruntimeconfig.cache
+C:\Users\moonl\source\repos\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.Properties.Resources.resources
+C:\Users\illxm\Desktop\pizza\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.csproj.AssemblyReference.cache
+C:\Users\illxm\Desktop\pizza\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.dll
+C:\Users\illxm\Desktop\pizza\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.pdb
+C:\Users\illxm\Desktop\old projects\pizza\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.csproj.AssemblyReference.cache
+C:\Users\illxm\Desktop\old projects\pizza\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.dll
+C:\Users\illxm\Desktop\old projects\pizza\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.pdb
